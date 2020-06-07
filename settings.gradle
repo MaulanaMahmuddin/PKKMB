@@ -1,0 +1,2 @@
+rootProject.name='PKKMB 2020'
+include ':app'

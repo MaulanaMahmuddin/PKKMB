@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PKKMB 2020</string>
+    <string name="text_intro1">Sistem aplikasi PKKMB ialah sebuah aplikasi yang tujuannya untuk memudahkan peserta PKKMB di Kampus Universitas Buana Perjuangan Karawang</string>
+    <string name="text_intro2">Dengan fitur sistem absen menggunakan QR Code, dapat memudahkan para peserta PKKMB dan sekaligus mengurangi penggunaan kertas yang berlebih</string>
+    <string name="text_intro3">Dengan membawakan 5 materi untuk memotivasi calon mahasiswa di era revolusi 4.0</string>
+</resources>
